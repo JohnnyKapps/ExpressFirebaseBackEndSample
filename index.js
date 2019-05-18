@@ -1,4 +1,4 @@
-var firebaseConfig = require('./config-sample')
+var firebaseConfig = require('./config')
 
 var express = require('express');
 var bodyParser = require('body-parser');
